@@ -22,8 +22,6 @@ Boston Housing Dataset Attribute Information (in order):
         - MEDV     Median value of owner-occupied homes in $1000's
 ```
 
-**Download link:** https://www.kaggle.com/puxama/bostoncsv
-
 ### Libraries
 
 <li>pandas
