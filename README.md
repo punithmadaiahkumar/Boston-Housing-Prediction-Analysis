@@ -36,9 +36,9 @@ Boston Housing Dataset Attribute Information (in order):
 <li>Extra Tress
 <li>XGBoost
 
------------------------------------------------------------------------------------
+
 **Mean Squared Error:** 10.0
------------------------------------------------------------------------------------ 
+
 
 <h2> For Dataset Reach me: </h2>
 <p align="left">
