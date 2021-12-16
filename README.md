@@ -28,7 +28,7 @@ Boston Housing Dataset Attribute Information (in order):
 <li>seaborn
 <li>scikit-learn
 
-### Algorithms
+<h2> Algorithms </h2>
 
 <li>Linear Regression
 <li>Decision Tree
