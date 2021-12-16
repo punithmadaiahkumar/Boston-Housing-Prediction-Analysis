@@ -1,7 +1,6 @@
 # Boston-Housing-Prediction-Analysis
 
-### Dataset Information
-
+<h2> Dataset Information </h2>
 Boston House Prices Dataset was collected in 1978 and has 506 entries with 14 attributes or features for homes from various suburbs in Boston.
 
 ```
